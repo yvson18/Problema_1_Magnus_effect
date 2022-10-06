@@ -1,4 +1,4 @@
-# Trabalho desenvolvido para disciplina de Introdução à Mecânica dos Fluídos: Magnus Effect
+# Trabalho desenvolvido para disciplina de Introdução à Mecânica dos Fluídos: Magnus Effect (UFPB)
 
 <h3 align="center"> André Hugo Ramalho Lopes</h3>
 <h3 align="center"> Yvson Nunes Figueiredo</h3>
